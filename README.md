@@ -1,9 +1,9 @@
-# Your Project's Title...
+v# Your Project's Title...
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--EdsTest01--KonradMoser.hlx.page/
+- Live: https://main--EdsTest01--KonradMoser.hlx.live/
 
 ## Installation
 
